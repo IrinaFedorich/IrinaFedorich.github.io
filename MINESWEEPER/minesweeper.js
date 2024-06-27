@@ -1,6 +1,6 @@
 let r = 12, // rows
     c = 12, // cols
-    s = 50, // size of boxes
+    s = 60, // size of boxes
     boxes,  
     field, 
     flag, 
